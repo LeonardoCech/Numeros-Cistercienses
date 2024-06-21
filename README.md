@@ -5,3 +5,4 @@ Equipe:
 - Iohana Linhares
 - Lavínia Vitória
 - Leonardo Cech
+- Vinícius de Maria
